@@ -1,9 +1,9 @@
 # caddy-dns-acmedns
-Caddy Web Server with ACME-DNS Provider
+Caddy Web Server with Custom Modules
 
 [![Docker Build and Publish](https://github.com/timelordx/caddy-dns-acmedns/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/timelordx/caddy-dns-acmedns/actions/workflows/docker-publish.yml)
 
-**DockerHub:** [timelordx/caddy-dns-acmedns](https://hub.docker.com/r/timelordx/caddy-dns-acmedns)
+**DockerHub:** [marce14-git/caddy](https://hub.docker.com/r/timelordx/caddy-dns-acmedns)
 
 **Docker Pull Command**
 
