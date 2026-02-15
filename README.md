@@ -1,4 +1,4 @@
-# caddy-dns-acmedns
+# caddy-custom
 Caddy Web Server with Custom Modules
 
 [![Docker Build and Publish](https://github.com/timelordx/caddy-dns-acmedns/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/timelordx/caddy-dns-acmedns/actions/workflows/docker-publish.yml)
@@ -9,11 +9,6 @@ Caddy Web Server with Custom Modules
 
 ```
 docker pull ghcr.io/marce14-git/caddy-custom:latest
-```
-* from Docker Hub:
-
-```
-docker pull timelordx/caddy-dns-acmedns:latest
 ```
 
 **Documentation**
