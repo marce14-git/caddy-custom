@@ -8,7 +8,7 @@ Caddy Web Server with Custom Modules
 * from GitHub Container Registry: 
 
 ```
-docker pull ghcr.io/marce14-git/caddy-custom:latest
+docker pull ghcr.io/marce14git/caddy-custom:latest
 ```
 
 **Documentation**
